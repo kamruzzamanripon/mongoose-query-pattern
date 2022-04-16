@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Diethylpropion Hydrochloride",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2307e" }
+  },
+  {
+    "name": "Amlodipine Besylate and Benazepril Hydrochloride",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2307e" }
+  },
+  { "name": "Metronidazole", "catId": { "$oid": "625b0e6aa45d3893f8b2307f" } },
+  {
+    "name": "CVS Therapeutic Menthol Pain Reliever",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2307f" }
+  },
+  { "name": "OXCARBAZEPINE", "catId": { "$oid": "625b0e6aa45d3893f8b23080" } },
+  { "name": "Nitrogen", "catId": { "$oid": "8368047978" } },
+  {
+    "name": "Potassium Chloride",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23080" }
+  },
+  { "name": "ORCHID", "catId": { "$oid": "625b0e6aa45d3893f8b23081" } },
+  {
+    "name": "California Sycamore",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23081" }
+  },
+  {
+    "name": "Treatment Set TS330718",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23082" }
+  },
+  { "name": "Citroma", "catId": { "$oid": "1624635520" } },
+  { "name": "Finasteride", "catId": { "$oid": "625b0e6aa45d3893f8b23082" } },
+  {
+    "name": "SHISEIDO SHEER MATIFYING COMPACT (REFILL)",
+    "catId": { "$oid": "6615831929" }
+  },
+  { "name": "TopCare", "catId": { "$oid": "625b0e6aa45d3893f8b23083" } },
+  { "name": "Icy Hot", "catId": { "$oid": "625b0e6aa45d3893f8b23083" } },
+  {
+    "name": "Eye Allergy Relief",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23084" }
+  },
+  {
+    "name": "PDI Sani-Hands for Kids",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23084" }
+  },
+  {
+    "name": "MORPHINE SULFATE",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23085" }
+  },
+  { "name": "EPIVIR", "catId": { "$oid": "625b0e6aa45d3893f8b23085" } },
+  {
+    "name": "Hydrochlorothiazide",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23086" }
+  },
+  { "name": "CARBAMAZEPINE", "catId": { "$oid": "625b0e6aa45d3893f8b23087" } },
+  { "name": "Gris-PEG", "catId": { "$oid": "625b0e6aa45d3893f8b23087" } },
+  { "name": "70%", "catId": { "$oid": "625b0e6aa45d3893f8b23087" } },
+  {
+    "name": "Up and Up dual action acid controller complete",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23088" }
+  },
+  {
+    "name": "Butorphanol Tartrate",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23089" }
+  },
+  { "name": "Intelence", "catId": { "$oid": "625b0e6aa45d3893f8b2308a" } },
+  { "name": "AmBisome", "catId": { "$oid": "625b0e6aa45d3893f8b2308a" } },
+  { "name": "Freshorize", "catId": { "$oid": "625b0e6aa45d3893f8b2308b" } },
+  { "name": "Osteosis", "catId": { "$oid": "625b0e6aa45d3893f8b2308b" } },
+  {
+    "name": "Animal Allergens, AP Cattle Hair and Dander",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2308c" }
+  },
+  { "name": "Guanfacine", "catId": { "$oid": "625b0e6aa45d3893f8b2308c" } },
+  { "name": "Imiquimod", "catId": { "$oid": "625b0e6aa45d3893f8b2308d" } },
+  { "name": "Lovastatin", "catId": { "$oid": "625b0e6aa45d3893f8b2308d" } },
+  {
+    "name": "Sabina Kit Refill",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2308e" }
+  },
+  { "name": "Rectiv", "catId": { "$oid": "625b0e6aa45d3893f8b2308e" } },
+  {
+    "name": "Cetirizine Hydrochloride",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2308e" }
+  },
+  { "name": "Naturasil", "catId": { "$oid": "625b0e6aa45d3893f8b2308f" } },
+  {
+    "name": "Hevert Cold and Flu Relief",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2308f" }
+  },
+  { "name": "ORTHO GUARD", "catId": { "$oid": "625b0e6aa45d3893f8b23090" } },
+  { "name": "ACETAMINOPHEN", "catId": { "$oid": "625b0e6aa45d3893f8b23090" } },
+  {
+    "name": "Extra Strength Headache Relief",
+    "catId": { "$oid": "625b0e6aa45d3893f8b23091" }
+  },
+  { "name": "GUNA-ADDICT 1", "catId": { "$oid": "625b0e6aa45d3893f8b23091" } },
+  { "name": "Anti Hive", "catId": { "$oid": "625b0e6aa45d3893f8b2308c" } },
+  { "name": "ASPIRIN", "catId": { "$oid": "625b0e6aa45d3893f8b2308c" } },
+  {
+    "name": "Theophylline in Dextrose",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2308c" }
+  },
+  { "name": "SOMA Circum", "catId": { "$oid": "625b0e6aa45d3893f8b2308b" } },
+  { "name": "Loratadine", "catId": { "$oid": "625b0e6aa45d3893f8b2308b" } },
+  { "name": "Dexamethasone", "catId": { "$oid": "625b0e6aa45d3893f8b2308b" } },
+  { "name": "Acyclovir", "catId": { "$oid": "625b0e6aa45d3893f8b2308b" } },
+  {
+    "name": "Nasal Decongestant PE",
+    "catId": { "$oid": "625b0e6aa45d3893f8b2308c" }
+  }
+]
