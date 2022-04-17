@@ -1,4 +1,6 @@
 const mongoose = require('mongoose');
+const mongoosePaginate = require('mongoose-paginate-v2');
+var aggregatePaginate = require("mongoose-aggregate-paginate-v2");
 //const crypto = require('crypto')
 
 const DataSchema = new mongoose.Schema({
@@ -24,6 +26,9 @@ const DataSchema = new mongoose.Schema({
     }
       
 },{ timestamps: true, versionKey:false })
+
+DataSchema.plugin(mongoosePaginate);
+DataSchema.plugin(aggregatePaginate);
 
 
 const Product = mongoose.model('Product', DataSchema, 'products');

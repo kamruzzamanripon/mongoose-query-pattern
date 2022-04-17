@@ -3,587 +3,587 @@
     "name": "Voyatouch",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a4" },
-    "shopName": "Kling, Gutkowski and Price"
+    "shopName": "Kling"
   },
   {
     "name": "Stim",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a4" },
-    "shopName": "Gutkowski, Howell and Thiel"
+    "shopName": "Kling"
   },
   {
     "name": "Ventosanzap",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a4" },
-    "shopName": "Runte-Botsford"
+    "shopName": "Kling"
   },
   {
     "name": "Fintone",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a5" },
-    "shopName": "Gleichner LLC"
+    "shopName": "Kling"
   },
   {
     "name": "Span",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a5" },
-    "shopName": "Schmitt, Wiegand and Stiedemann"
+    "shopName": "Kling"
   },
   {
     "name": "Aerified",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a5" },
-    "shopName": "Lowe-Koss"
+    "shopName": "Kling"
   },
   {
     "name": "Konklab",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a5" },
-    "shopName": "Swift LLC"
+    "shopName": "Kling"
   },
   {
     "name": "Zathin",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a6" },
-    "shopName": "Lind Inc"
+    "shopName": "Kling"
   },
   {
     "name": "Stim",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a6" },
-    "shopName": "Homenick, Marks and Schroeder"
+    "shopName": "Kling"
   },
   {
     "name": "Zaam-Dox",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a6" },
-    "shopName": "Bogisich, Oberbrunner and Will"
+    "shopName": "Kling"
   },
   {
     "name": "Kanlam",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a6" },
-    "shopName": "Wolff, Heller and Crist"
+    "shopName": "Kling"
   },
   {
     "name": "Fix San",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a6" },
-    "shopName": "Daugherty, Pfannerstill and Zemlak"
+    "shopName": "Kling"
   },
   {
     "name": "Quo Lux",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a7" },
-    "shopName": "Hilpert and Sons"
+    "shopName": "Kling"
   },
   {
     "name": "Mat Lam Tam",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a7" },
-    "shopName": "Dooley Group"
+    "shopName": "Dooley"
   },
   {
     "name": "Sub-Ex",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a7" },
-    "shopName": "Jacobi-McClure"
+    "shopName": "Dooley"
   },
   {
     "name": "Wrapsafe",
     "catId": { "$oid": "625b0e6aa45d3893f8b2307f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a7" },
-    "shopName": "O'Hara, Kuphal and Hahn"
+    "shopName": "Dooley"
   },
   {
     "name": "Asoka",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a8" },
-    "shopName": "Osinski, Rohan and Kilback"
+    "shopName": "Dooley"
   },
   {
     "name": "Zamit",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a8" },
-    "shopName": "Thiel Inc"
+    "shopName": "Dooley"
   },
   {
     "name": "Alpha",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a8" },
-    "shopName": "Effertz-Altenwerth"
+    "shopName": "Dooley"
   },
   {
     "name": "Prodder",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a8" },
-    "shopName": "Ledner and Sons"
+    "shopName": "Dooley"
   },
   {
     "name": "Tres-Zap",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a8" },
-    "shopName": "Leuschke, Steuber and Fisher"
+    "shopName": "Dooley"
   },
   {
     "name": "Tin",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Shields-Towne"
+    "shopName": "Dooley"
   },
   {
     "name": "Treeflex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Schuppe, Jerde and Hoppe"
+    "shopName": "Dooley"
   },
   {
     "name": "Greenlam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Bruen Group"
+    "shopName": "Dooley"
   },
   {
     "name": "Ventosanzap",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "O'Conner, Langworth and Rolfson"
+    "shopName": "Dooley"
   },
   {
     "name": "Daltfresh",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Huels-Beahan"
+    "shopName": "Huels"
   },
   {
     "name": "Voyatouch",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Muller LLC"
+    "shopName": "Huels"
   },
   {
     "name": "Zontrax",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Kozey LLC"
+    "shopName": "Huels"
   },
   {
     "name": "Veribet",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Koss LLC"
+    "shopName": "Huels"
   },
   {
     "name": "Biodex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Koelpin-Gutmann"
+    "shopName": "Huels"
   },
   {
     "name": "Stringtough",
     "catId": { "$oid": "625b0e6aa45d3893f8b23080" },
     "subCatId": { "$oid": "625b117da45d3893f8b230a9" },
-    "shopName": "Kautzer and Sons"
+    "shopName": "Huels"
   },
   {
     "name": "Viva",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230aa" },
-    "shopName": "Baumbach LLC"
+    "shopName": "Huels"
   },
   {
     "name": "Zamit",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230aa" },
-    "shopName": "Upton and Sons"
+    "shopName": "Huels"
   },
   {
     "name": "Voltsillam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230aa" },
-    "shopName": "Satterfield LLC"
+    "shopName": "Huels"
   },
   {
     "name": "Lotlux",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230aa" },
-    "shopName": "Prosacco-Bogisich"
+    "shopName": "Huels"
   },
 
   {
     "name": "Opela",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ab" },
-    "shopName": "Willms Inc"
+    "shopName": "Huels"
   },
   {
     "name": "Tin",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ab" },
-    "shopName": "Brown-Shanahan"
+    "shopName": "Huels"
   },
   {
     "name": "Cookley",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ab" },
-    "shopName": "Trantow, Torphy and Reynolds"
+    "shopName": "Huels"
   },
   {
     "name": "Mat Lam Tam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ab" },
-    "shopName": "Howell, Schuppe and Weimann"
+    "shopName": "Huels"
   },
   {
     "name": "Namfix",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ab" },
-    "shopName": "Yost-Lakin"
+    "shopName": "Johnston"
   },
   {
     "name": "Wrapsafe",
     "catId": { "$oid": "625b0e6aa45d3893f8b23081" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ab" },
-    "shopName": "Hand, Walter and West"
+    "shopName": "Johnston"
   },
 
   {
     "name": "Bitchip",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ac" },
-    "shopName": "Runolfsson Inc"
+    "shopName": "Johnston"
   },
   {
     "name": "Bigtax",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ac" },
-    "shopName": "Veum, Ernser and Grady"
+    "shopName": "Johnston"
   },
   {
     "name": "Hatity",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ac" },
-    "shopName": "Schaden, Greenholt and MacGyver"
+    "shopName": "Johnston"
   },
   {
     "name": "Lotstring",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ac" },
-    "shopName": "Upton, Nader and Gutmann"
+    "shopName": "Johnston"
   },
   {
     "name": "Flowdesk",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ac" },
-    "shopName": "Cummerata, Kovacek and Kunze"
+    "shopName": "Johnston"
   },
 
   {
     "name": "Voltsillam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ad" },
-    "shopName": "Hintz Inc"
+    "shopName": "Hintz"
   },
   {
     "name": "Duobam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ad" },
-    "shopName": "Haag, Stiedemann and Parisian"
+    "shopName": "Hintzn"
   },
   {
     "name": "Sonsing",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ad" },
-    "shopName": "Tremblay, Carroll and Stehr"
+    "shopName": "Hintz"
   },
   {
     "name": "Holdlamis",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ad" },
-    "shopName": "Streich-Reichert"
+    "shopName": "Hintz"
   },
   {
     "name": "Quo Lux",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ad" },
-    "shopName": "MacGyver-Denesik"
+    "shopName": "Hintz"
   },
   {
     "name": "It",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ad" },
-    "shopName": "Gerlach, Koepp and Lang"
+    "shopName": "Hintz"
   },
   {
     "name": "Ronstring",
     "catId": { "$oid": "625b0e6aa45d3893f8b23082" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ad" },
-    "shopName": "Von-Howell"
+    "shopName": "Durgan"
   },
 
   {
     "name": "Toughjoyfax",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ae" },
-    "shopName": "Ortiz-Wunsch"
+    "shopName": "Durgan"
   },
   {
     "name": "Zoolab",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ae" },
-    "shopName": "Waelchi, Schowalter and Bosco"
+    "shopName": "Durgan"
   },
   {
     "name": "Voltsillam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ae" },
-    "shopName": "Bartoletti and Sons"
+    "shopName": "Durgan"
   },
   {
     "name": "Namfix",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ae" },
-    "shopName": "Jenkins, Hartmann and Stoltenberg"
+    "shopName": "Durgan"
   },
   {
     "name": "Aerified",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ae" },
-    "shopName": "Jacobs, Ondricka and Koss"
+    "shopName": "Durgan"
   },
   {
     "name": "Stim",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ae" },
-    "shopName": "Paucek-Kunde"
+    "shopName": "Durgan"
   },
 
   {
     "name": "Solarbreeze",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230af" },
-    "shopName": "Beer, Doyle and Spinka"
+    "shopName": "Durgan"
   },
   {
     "name": "Span",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230af" },
-    "shopName": "Zemlak, Johnston and Leffler"
+    "shopName": "Durgan"
   },
   {
     "name": "Alphazap",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230af" },
-    "shopName": "Dach, Mayer and Kunze"
+    "shopName": "Sons"
   },
   {
     "name": "Zontrax",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230af" },
-    "shopName": "Johns Inc"
+    "shopName": "Sons"
   },
   {
     "name": "Home Ing",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230af" },
-    "shopName": "Herzog-Donnelly"
+    "shopName": "Sons"
   },
   {
     "name": "Hatity",
     "catId": { "$oid": "625b0e6aa45d3893f8b23083" },
     "subCatId": { "$oid": "625b117da45d3893f8b230af" },
-    "shopName": "O'Kon, Bartell and Hermann"
+    "shopName": "Sons"
   },
 
   {
     "name": "Tin",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b0" },
-    "shopName": "Prosacco Inc"
+    "shopName": "Sons"
   },
   {
     "name": "Domainer",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b0" },
-    "shopName": "Hammes-Gutmann"
+    "shopName": "Sons"
   },
   {
     "name": "Cardify",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b0" },
-    "shopName": "Weissnat-Hettinger"
+    "shopName": "Sons"
   },
   {
     "name": "Keylex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b0" },
-    "shopName": "Gerlach, Simonis and Schmitt"
+    "shopName": "Sons"
   },
   {
     "name": "Ventosanzap",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b0" },
-    "shopName": "Lynch, Nicolas and Murphy"
+    "shopName": "Sons"
   },
   {
     "name": "Pannier",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b0" },
-    "shopName": "Gerlach, Fadel and Emard"
+    "shopName": "Sons"
   },
   {
     "name": "Asoka",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b0" },
-    "shopName": "Conn, Koss and Osinski"
+    "shopName": "Sons"
   },
 
   {
     "name": "Voltsillam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b1" },
-    "shopName": "Hyatt-Mertz"
+    "shopName": "Cormier"
   },
   {
     "name": "Kanlam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b1" },
-    "shopName": "Ruecker-Kuhic"
+    "shopName": "Cormier"
   },
   {
     "name": "Zoolab",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b1" },
-    "shopName": "Herman Group"
+    "shopName": "Cormier"
   },
   {
     "name": "Span",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b1" },
-    "shopName": "Kemmer-Cummings"
+    "shopName": "Cormier"
   },
   {
     "name": "Aerified",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b1" },
-    "shopName": "Spinka-Ferry"
+    "shopName": "Cormier"
   },
   {
     "name": "Tresom",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b1" },
-    "shopName": "Hahn LLC"
+    "shopName": "Cormier"
   },
   {
     "name": "Overhold",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b1" },
-    "shopName": "Terry and Sons"
+    "shopName": "Cormier"
   },
   {
     "name": "Tres-Zap",
     "catId": { "$oid": "625b0e6aa45d3893f8b23084" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b1" },
-    "shopName": "Sawayn, Hahn and Bins"
+    "shopName": "Cormier"
   },
 
   {
     "name": "Namfix",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b2" },
-    "shopName": "Mante-Durgan"
+    "shopName": "Cormier"
   },
   {
     "name": "Fix San",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b2" },
-    "shopName": "DuBuque, Littel and O'Kon"
+    "shopName": "Bradtke"
   },
   {
     "name": "Gembucket",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b2" },
-    "shopName": "Windler, Schmidt and Cole"
+    "shopName": "Bradtke"
   },
   {
     "name": "Pannier",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b2" },
-    "shopName": "Gutkowski-Bernier"
+    "shopName": "Bradtke"
   },
   {
     "name": "Toughjoyfax",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b2" },
-    "shopName": "Dooley-Lubowitz"
+    "shopName": "Bradtke"
   },
 
   {
     "name": "Fintone",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Konopelski-Pagac"
+    "shopName": "Bradtke"
   },
   {
     "name": "Trippledex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Berge, Mills and Bashirian"
+    "shopName": "Bradtke"
   },
   {
     "name": "Gembucket",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Strosin and Sons"
+    "shopName": "Bradtke"
   },
   {
     "name": "Redhold",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Nikolaus, Durgan and Durgan"
+    "shopName": "Bradtke"
   },
   {
     "name": "Konklux",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Gutkowski Inc"
+    "shopName": "Bradtke"
   },
   {
     "name": "Y-find",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Wiza, Funk and Fahey"
+    "shopName": "Bradtke"
   },
   {
     "name": "Stringtough",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Green-Berge"
+    "shopName": "Bradtke"
   },
   {
     "name": "Cardguard",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Dare-Kilback"
+    "shopName": "Bradtke"
   },
   {
     "name": "Job",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Wisozk LLC"
+    "shopName": "Parker"
   },
   {
     "name": "Lotstring",
     "catId": { "$oid": "625b0e6aa45d3893f8b23085" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b3" },
-    "shopName": "Friesen, Dare and Marks"
+    "shopName": "Parker"
   },
 
   {
     "name": "Hatity",
     "catId": { "$oid": "625b0e6aa45d3893f8b23086" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b4" },
-    "shopName": "Walter Group"
+    "shopName": "Parker"
   },
   {
     "name": "Zaam-Dox",
@@ -595,638 +595,638 @@
     "name": "Treeflex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23086" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b4" },
-    "shopName": "Wyman, Pfeffer and Hyatt"
+    "shopName": "Parker"
   },
   {
     "name": "Trippledex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23086" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b4" },
-    "shopName": "Hahn, Kerluke and Spinka"
+    "shopName": "Parker"
   },
   {
     "name": "Cardguard",
     "catId": { "$oid": "625b0e6aa45d3893f8b23086" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b4" },
-    "shopName": "Quitzon Group"
+    "shopName": "Parker"
   },
   {
     "name": "Subin",
     "catId": { "$oid": "625b0e6aa45d3893f8b23086" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b4" },
-    "shopName": "Cormier-Dickinson"
+    "shopName": "Parker"
   },
   {
     "name": "Wrapsafe",
     "catId": { "$oid": "625b0e6aa45d3893f8b23086" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b4" },
-    "shopName": "Kunde-Bosco"
+    "shopName": "Parker"
   },
 
   {
     "name": "Zamit",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b5" },
-    "shopName": "Lebsack and Sons"
+    "shopName": "Parker"
   },
   {
     "name": "Otcom",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b5" },
-    "shopName": "Moore LLC"
+    "shopName": "Parker"
   },
   {
     "name": "Sonair",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b5" },
-    "shopName": "Kemmer, Schaefer and Kuhn"
+    "shopName": "Parker"
   },
   {
     "name": "Lotstring",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b5" },
-    "shopName": "Weber Group"
+    "shopName": "Parker"
   },
   {
     "name": "Lotlux",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b5" },
-    "shopName": "Kerluke, Bechtelar and Satterfield"
+    "shopName": "Parker"
   },
   {
     "name": "Quo Lux",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b5" },
-    "shopName": "Simonis-Walter"
+    "shopName": "Parker"
   },
   {
     "name": "Wrapsafe",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b5" },
-    "shopName": "Ondricka, Skiles and Hane"
+    "shopName": "Kiehn"
   },
 
   {
     "name": "Hatity",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b6" },
-    "shopName": "Bergnaum-Gulgowski"
+    "shopName": "Kiehni"
   },
   {
     "name": "Tin",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b6" },
-    "shopName": "Collins and Sons"
+    "shopName": "Kiehn"
   },
   {
     "name": "Job",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b6" },
-    "shopName": "Bradtke-Gleichner"
+    "shopName": "Kiehn"
   },
   {
     "name": "Treeflex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b6" },
-    "shopName": "O'Keefe, Beier and Blick"
+    "shopName": "Kiehn"
   },
 
   {
     "name": "Tresom",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b7" },
-    "shopName": "Simonis Group"
+    "shopName": "Kiehn"
   },
   {
     "name": "Zoolab",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b7" },
-    "shopName": "Cassin LLC"
+    "shopName": "Kiehn"
   },
   {
     "name": "Gembucket",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b7" },
-    "shopName": "Turner-Larson"
+    "shopName": "Turner"
   },
   {
     "name": "Gembucket",
     "catId": { "$oid": "625b0e6aa45d3893f8b23087" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b7" },
-    "shopName": "Stracke-Bogan"
+    "shopName": "Turner"
   },
 
   {
     "name": "Konklab",
     "catId": { "$oid": "625b0e6aa45d3893f8b23088" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b8" },
-    "shopName": "Hermiston and Sons"
+    "shopName": "Turner"
   },
   {
     "name": "Viva",
     "catId": { "$oid": "625b0e6aa45d3893f8b23088" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b8" },
-    "shopName": "Medhurst-Hirthe"
+    "shopName": "Turner"
   },
   {
     "name": "Y-Solowarm",
     "catId": { "$oid": "625b0e6aa45d3893f8b23088" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b8" },
-    "shopName": "Runte Group"
+    "shopName": "Turner"
   },
 
   {
     "name": "Redhold",
     "catId": { "$oid": "625b0e6aa45d3893f8b23089" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b9" },
-    "shopName": "Kub LLC"
+    "shopName": "Turner"
   },
   {
     "name": "Duobam",
     "catId": { "$oid": "625b0e6aa45d3893f8b23089" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b9" },
-    "shopName": "Schaden-Parker"
+    "shopName": "Turner"
   },
   {
     "name": "Toughjoyfax",
     "catId": { "$oid": "625b0e6aa45d3893f8b23089" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b9" },
-    "shopName": "Volkman-Moen"
+    "shopName": "Turner"
   },
   {
     "name": "Fixflex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23089" },
     "subCatId": { "$oid": "625b117da45d3893f8b230b9" },
-    "shopName": "Larson, Waters and Kerluke"
+    "shopName": "Turner"
   },
 
   {
     "name": "Fintone",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ba" },
-    "shopName": "Buckridge-Buckridge"
+    "shopName": "Kulas"
   },
   {
     "name": "Bamity",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ba" },
-    "shopName": "Boyle LLC"
+    "shopName": "Kulas"
   },
   {
     "name": "Span",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ba" },
-    "shopName": "Willms-Connelly"
+    "shopName": "Kulas"
   },
   {
     "name": "Opela",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ba" },
-    "shopName": "Jacobson and Sons"
+    "shopName": "Kulas"
   },
   {
     "name": "Zaam-Dox",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ba" },
-    "shopName": "Buckridge-Zieme"
+    "shopName": "Kulas"
   },
 
   {
     "name": "Zaam-Dox",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bb" },
-    "shopName": "Christiansen-Cruickshank"
+    "shopName": "Kulas"
   },
   {
     "name": "Zontrax",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bb" },
-    "shopName": "Effertz-Brown"
+    "shopName": "Kulas"
   },
   {
     "name": "Cookley",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bb" },
-    "shopName": "Metz LLC"
+    "shopName": "Kulas"
   },
   {
     "name": "Redhold",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308a" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bb" },
-    "shopName": "Hyatt-DuBuque"
+    "shopName": "Kulas"
   },
 
   {
     "name": "Bytecard",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bc" },
-    "shopName": "Gerlach and Sons"
+    "shopName": "Kulas"
   },
   {
     "name": "Flexidy",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bc" },
-    "shopName": "Rowe, Rohan and Towne"
+    "shopName": "Kulas"
   },
   {
     "name": "Tempsoft",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bc" },
-    "shopName": "Frami, Grimes and Kiehn"
+    "shopName": "Kulas"
   },
   {
     "name": "Voyatouch",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bc" },
-    "shopName": "Collier, Frami and Hartmann"
+    "shopName": "Kulas"
   },
   {
     "name": "Duobam",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bc" },
-    "shopName": "Gutmann and Sons"
+    "shopName": "Kulas"
   },
 
   {
     "name": "Solarbreeze",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bd" },
-    "shopName": "Kutch LLC"
+    "shopName": "Hills"
   },
   {
     "name": "Tempsoft",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bd" },
-    "shopName": "Hills, Armstrong and Keebler"
+    "shopName": "Hills"
   },
   {
     "name": "Ronstring",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bd" },
-    "shopName": "Thompson Inc"
+    "shopName": "Hills"
   },
   {
     "name": "Andalax",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bd" },
-    "shopName": "Swift-Feest"
+    "shopName": "Hills"
   },
   {
     "name": "Hatity",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bd" },
-    "shopName": "Hane, Renner and Sporer"
+    "shopName": "Hills"
   },
 
   {
     "name": "Matsoft",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230be" },
-    "shopName": "Howe-Ritchie"
+    "shopName": "Hills"
   },
   {
     "name": "Bytecard",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230be" },
-    "shopName": "Raynor, Cormier and Lynch"
+    "shopName": "Hills"
   },
   {
     "name": "Job",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230be" },
-    "shopName": "Ernser Group"
+    "shopName": "Hills"
   },
   {
     "name": "Y-find",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230be" },
-    "shopName": "Schaefer Group"
+    "shopName": "Hills"
   },
   {
     "name": "Ronstring",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230be" },
-    "shopName": "Quigley, McDermott and Langworth"
+    "shopName": "Hills"
   },
 
   {
     "name": "Sonsing",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bf" },
-    "shopName": "Lindgren-Botsford"
+    "shopName": "Hills"
   },
   {
     "name": "Sonsing",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bf" },
-    "shopName": "Brown-Kunze"
+    "shopName": "Hills"
   },
   {
     "name": "Stringtough",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bf" },
-    "shopName": "Kulas, Ruecker and Fisher"
+    "shopName": "Mueller"
   },
   {
     "name": "Voyatouch",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bf" },
-    "shopName": "Johnston LLC"
+    "shopName": "Mueller"
   },
   {
     "name": "Cookley",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230bf" },
-    "shopName": "Beier, Sipes and Gutmann"
+    "shopName": "Mueller"
   },
 
   {
     "name": "Prodder",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c0" },
-    "shopName": "Bradtke LLC"
+    "shopName": "Mueller"
   },
   {
     "name": "Keylex",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c0" },
-    "shopName": "Weber, Runolfsson and Rau"
+    "shopName": "Mueller"
   },
   {
     "name": "Flowdesk",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c0" },
-    "shopName": "Lind Group"
+    "shopName": "Mueller"
   },
   {
     "name": "Otcom",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c0" },
-    "shopName": "Reynolds-Dibbert"
+    "shopName": "Mueller"
   },
   {
     "name": "Daltfresh",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c0" },
-    "shopName": "Balistreri, Murray and Koelpin"
+    "shopName": "Mueller"
   },
 
   {
     "name": "Fintone",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c1" },
-    "shopName": "Kohler, Marks and Marquardt"
+    "shopName": "Mueller"
   },
   {
     "name": "Sonsing",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c1" },
-    "shopName": "Effertz Inc"
+    "shopName": "Effertz"
   },
   {
     "name": "Domainer",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c1" },
-    "shopName": "Witting Inc"
+    "shopName": "Effertz"
   },
   {
     "name": "Solarbreeze",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308d" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c1" },
-    "shopName": "Schultz, Runolfsdottir and Kiehn"
+    "shopName": "Effertz"
   },
 
   {
     "name": "Sub-Ex",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c2" },
-    "shopName": "Goldner LLC"
+    "shopName": "Effertz"
   },
   {
     "name": "Konklab",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c2" },
-    "shopName": "Stanton, Tremblay and Senger"
+    "shopName": "Effertz"
   },
   {
     "name": "Cookley",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c2" },
-    "shopName": "Beahan-O'Conner"
+    "shopName": "Effertz"
   },
   {
     "name": "Greenlam",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c2" },
-    "shopName": "McDermott, Hand and Witting"
+    "shopName": "Effertz"
   },
 
   {
     "name": "Flexidy",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c3" },
-    "shopName": "Hintz-Blanda"
+    "shopName": "Effertz"
   },
   {
     "name": "Transcof",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c3" },
-    "shopName": "Lubowitz-Fay"
+    "shopName": "Effertz"
   },
   {
     "name": "Asoka",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c3" },
-    "shopName": "Nienow-Wehner"
+    "shopName": "Effertz"
   },
   {
     "name": "Duobam",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c3" },
-    "shopName": "Cummerata Group"
+    "shopName": "Effertz"
   },
   {
     "name": "Latlux",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230d2" },
-    "shopName": "Hirthe LLC"
+    "shopName": "Effertz"
   },
 
   {
     "name": "Fixflex",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c4" },
-    "shopName": "Langworth Inc"
+    "shopName": "Effertz"
   },
   {
     "name": "Holdlamis",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c4" },
-    "shopName": "Kemmer Inc"
+    "shopName": "Green"
   },
   {
     "name": "Andalax",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308e" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c4" },
-    "shopName": "Ritchie-Kling"
+    "shopName": "Green"
   },
   {
     "name": "Bamity",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230d1" },
-    "shopName": "Mueller, Roberts and Beer"
+    "shopName": "Green"
   },
 
   {
     "name": "Andalax",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c5" },
-    "shopName": "Weber-Crooks"
+    "shopName": "Green"
   },
   {
     "name": "Cardguard",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230d0" },
-    "shopName": "Daniel, Erdman and Walker"
+    "shopName": "Green"
   },
   {
     "name": "Zaam-Dox",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c5" },
-    "shopName": "Hane-Kuphal"
+    "shopName": "Green"
   },
   {
     "name": "Flowdesk",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c5" },
-    "shopName": "Schoen-Kris"
+    "shopName": "Green"
   },
   {
     "name": "Home Ing",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c5" },
-    "shopName": "Mohr, Schroeder and Gusikowski"
+    "shopName": "Green"
   },
   {
     "name": "Treeflex",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c5" },
-    "shopName": "Stiedemann, Koss and Volkman"
+    "shopName": "Green"
   },
   {
     "name": "Overhold",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230cf" },
-    "shopName": "O'Conner, Koepp and Hayes"
+    "shopName": "Green"
   },
 
   {
     "name": "Tresom",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c6" },
-    "shopName": "Cronin Inc"
+    "shopName": "Green"
   },
   {
     "name": "Bytecard",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c6" },
-    "shopName": "Botsford-Borer"
+    "shopName": "Green"
   },
   {
     "name": "Greenlam",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c6" },
-    "shopName": "Dach-Carter"
+    "shopName": "Green"
   },
   {
     "name": "Kanlam",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c6" },
-    "shopName": "Stoltenberg, Hermiston and Kerluke"
+    "shopName": "Green"
   },
   {
     "name": "Transcof",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c6" },
-    "shopName": "Moore, Keeling and Metz"
+    "shopName": "Green"
   },
   {
     "name": "Toughjoyfax",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308f" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c6" },
-    "shopName": "Miller, Haley and Dach"
+    "shopName": "Miller"
   },
 
   {
     "name": "Zaam-Dox",
     "catId": { "$oid": "625b0e6aa45d3893f8b23090" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c7" },
-    "shopName": "Cole LLC"
+    "shopName": "Miller"
   },
   {
     "name": "Sub-Ex",
     "catId": { "$oid": "625b0e6aa45d3893f8b23090" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c7" },
-    "shopName": "Rosenbaum LLC"
+    "shopName": "Miller"
   },
   {
     "name": "Sonsing",
     "catId": { "$oid": "625b0e6aa45d3893f8b23090" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c7" },
-    "shopName": "Daniel Inc"
+    "shopName": "Miller"
   },
   {
     "name": "Konklab",
     "catId": { "$oid": "625b0e6aa45d3893f8b23090" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c7" },
-    "shopName": "Will, Lindgren and Olson"
+    "shopName": "Miller"
   },
   {
     "name": "Domainer",
     "catId": { "$oid": "625b0e6aa45d3893f8b23090" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c7" },
-    "shopName": "Kutch, Green and Kovacek"
+    "shopName": "Miller"
   },
 
   {
     "name": "Temp",
     "catId": { "$oid": "625b0e6aa45d3893f8b23090" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c8" },
-    "shopName": "Jaskolski-Hills"
+    "shopName": "Miller"
   },
   {
     "name": "Cardify",
     "catId": { "$oid": "625b0e6aa45d3893f8b23091" },
     "subCatId": { "$oid": "625b117da45d3893f8b230c9" },
-    "shopName": "Mante LLC"
+    "shopName": "Miller"
   },
   {
     "name": "Konklab",
     "catId": { "$oid": "625b0e6aa45d3893f8b23091" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ca" },
-    "shopName": "Vandervort-West"
+    "shopName": "Miller"
   },
   {
     "name": "Span",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230cb" },
-    "shopName": "Bogisich-Harvey"
+    "shopName": "Miller"
   },
   {
     "name": "Wrapsafe",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230cc" },
-    "shopName": "Ortiz Inc"
+    "shopName": "Miller"
   },
   {
     "name": "Y-Solowarm",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308c" },
     "subCatId": { "$oid": "625b117da45d3893f8b230cd" },
-    "shopName": "Ondricka, Bartell and Dach"
+    "shopName": "Miller"
   },
   {
     "name": "Tampflex",
     "catId": { "$oid": "625b0e6aa45d3893f8b2308b" },
     "subCatId": { "$oid": "625b117da45d3893f8b230ce" },
-    "shopName": "Green Inc"
+    "shopName": "Miller"
   }
 ]
