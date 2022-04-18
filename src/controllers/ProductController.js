@@ -38,6 +38,7 @@ module.exports = class ProductController {
                        as: "categoryInfo"    // output array field
                     }
                 },
+                {   $unwind:"$categoryInfo" },
                 {
                   $lookup: {
                       from: "subCategories",
@@ -46,9 +47,10 @@ module.exports = class ProductController {
                       as: "subCategoryInfo"
                   }
                 },
+                {   $unwind:"$subCategoryInfo" },
                 //For presentation
                 {
-                  "$project": {
+                  $project: {
                   "_id": 1,
                   "name": 1,
                   "shopName": 1,
@@ -87,7 +89,7 @@ module.exports = class ProductController {
                 page: 1,
                 limit: 10,
               };
-            const allProductInfo = await Product.aggregate([
+            const allProductInfo =  Product.aggregate([
                 {$lookup:
                     {
                        from: "categories",   // collection to join
@@ -96,6 +98,7 @@ module.exports = class ProductController {
                        as: "categoryInfo"    // output array field
                     }
                 },
+                {   $unwind:"$categoryInfo" },
                 {
                   $lookup: {
                       from: "subCategories",
@@ -104,9 +107,10 @@ module.exports = class ProductController {
                       as: "subCategoryInfo"
                   }
                 },
+                {   $unwind:"$subCategoryInfo" },
                 //For presentaiton
                 {
-                  "$project": {
+                  $project: {
                   "_id": 1,
                   "name": 1,
                   "shopName": 1,
@@ -118,9 +122,10 @@ module.exports = class ProductController {
                 }
               }
             ]
-            ).exec();
-       
+            )
+                   
             const productInfoAddPagination =  await Product.aggregatePaginate(allProductInfo, options);
+            //return console.log(productInfoAddPagination)
 
             return res.status(200).json({
               code: 200,
@@ -150,6 +155,7 @@ module.exports = class ProductController {
                        as: "categoryInfo"    // output array field
                     }
                 },
+                {   $unwind:"$categoryInfo" },
                 {
                   $lookup: {
                       from: "subCategories",
@@ -158,9 +164,10 @@ module.exports = class ProductController {
                       as: "subCategoryInfo"
                   }
                 },
+                {   $unwind:"$subCategoryInfo" },
                 //For presentaiton
                 {
-                  "$project": {
+                  $project: {
                   "_id": 1,
                   "name": 1,
                   "shopName": 1,
@@ -174,8 +181,8 @@ module.exports = class ProductController {
               {
                 $group: {
                     _id: { shopName: "$shopName" },
-                     details: { $push: '$$ROOT' },
-                     count: {$sum: 1},
+                    count: {$sum: 1},
+                    details: { $push: '$$ROOT' },
                    },
               }
             ]
@@ -183,7 +190,7 @@ module.exports = class ProductController {
        
             return res.status(200).json({
               code: 200,
-              message: "Product List with pagination",
+              message: "Group wise Product List",
               data: allProductInfo,
             });
   

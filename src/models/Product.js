@@ -27,7 +27,7 @@ const DataSchema = new mongoose.Schema({
       
 },{ timestamps: true, versionKey:false })
 
-DataSchema.plugin(mongoosePaginate);
+//DataSchema.plugin(mongoosePaginate);
 DataSchema.plugin(aggregatePaginate);
 
 
