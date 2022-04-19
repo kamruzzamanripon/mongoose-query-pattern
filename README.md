@@ -14,7 +14,7 @@
 
 ## Group wise all product information show
 
-![This is a alt text.](/doc/Screenshot_3.png.png)
+![This is a alt text.](/doc/Screenshot_3.png)
 
 ## invoice all details show
 
